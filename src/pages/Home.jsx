@@ -79,7 +79,7 @@ const Home = () => {
             );
 
             const data = await resp.json();
-            navigate(`/operations/${data.operation_id}`)
+            navigate(`/operations/${displayName}/${data.operation_id}`)
             console.log(data);
         }
 
