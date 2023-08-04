@@ -1,4 +1,5 @@
-![image](/public/clone-site-ui.jpg)
+![clone-wp-site](https://github.com/kinsta/clone-wp-site/assets/57611810/1d8b12ba-28bb-4b84-81ee-db6f11dd7570)
+
 
 # How To Build a React WordPress Cloning Application With Kinsta API
 
