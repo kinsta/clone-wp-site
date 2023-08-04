@@ -114,7 +114,7 @@ const Home = () => {
                         </div>
                         <div className="input-div">
                             <label>Select a site</label>
-                            <span>Select the site you want to either clear cache or restart PHP engine.</span>
+                            <span>Select the site you want to clone.</span>
                             <select className="form-control" value={selectedSiteId} onChange={(e) => setSelectedSiteId(e.target.value)}>
                                 <option value=""></option>
                                 {sites && (
